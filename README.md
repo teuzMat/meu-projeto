@@ -1,5 +1,5 @@
 # Meu Projeto Git
-Versão 1.1 do projeto para demonstrar o uso básico do Git. 
+Versão 1.3 melhorada do projeto para demonstrar o uso básico do Git. 
 
 ## Arquivos
 - README.md
